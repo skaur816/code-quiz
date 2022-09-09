@@ -8,7 +8,8 @@ I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
 SO THAT I can gauge my progress compared to my peers
 
 You have 60 seconds to answer coding related questions. Wrong answers penalize your score and time! 
-<img width="944" alt="Code quiz home" src="https://user-images.githubusercontent.com/99299194/189410021-0749cf57-1164-4715-8097-de343b08a748.png">
+<img width="944" alt="Code quiz home" src="https://user-images.githubusercontent.com/99299194/189410564-c843499a-e7b2-4a77-85f5-7ee1a325eab4.png">
+
 
 
 
